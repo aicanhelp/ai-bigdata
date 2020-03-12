@@ -1,0 +1,21 @@
+[submodule "resources/flinkx"]
+	path = resources/flinkx
+	url = https://github.com/DTStack/flinkx.git
+[submodule "resources/moonbox"]
+	path = resources/moonbox
+	url = https://github.com/edp963/moonbox.git
+[submodule "resources/wormhole"]
+	path = resources/wormhole
+	url = https://github.com/edp963/wormhole.git
+[submodule "resources/kylo"]
+	path = resources/kylo
+	url = https://github.com/Teradata/kylo.git
+[submodule "resources/davinci"]
+	path = resources/davinci
+	url = https://github.com/edp963/davinci.git
+[submodule "resources/dbus"]
+	path = resources/dbus
+	url = https://github.com/BriData/DBus.git
+[submodule "resources/nifi"]
+	path = resources/nifi
+	url = https://github.com/apache/nifi.git
