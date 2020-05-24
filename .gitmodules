@@ -19,3 +19,6 @@
 [submodule "resources/nifi"]
 	path = resources/nifi
 	url = https://github.com/apache/nifi.git
+[submodule "resources/incubator-superset"]
+	path = resources/incubator-superset
+	url = https://github.com/apache/incubator-superset.git
