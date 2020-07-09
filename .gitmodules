@@ -22,3 +22,21 @@
 [submodule "resources/incubator-superset"]
 	path = resources/incubator-superset
 	url = https://github.com/apache/incubator-superset.git
+[submodule "resources/redash"]
+	path = resources/redash
+	url = https://github.com/getredash/redash.git
+[submodule "resources/metabase"]
+	path = resources/metabase
+	url = https://github.com/metabase/metabase.git
+[submodule "resources/ranger"]
+	path = resources/ranger
+	url = https://github.com/apache/ranger.git
+[submodule "resources/atlas"]
+	path = resources/atlas
+	url = https://github.com/apache/atlas.git
+[submodule "resources/datacollector"]
+	path = resources/datacollector
+	url = https://github.com/streamsets/datacollector.git
+[submodule "resources/delta"]
+	path = resources/delta
+	url = https://github.com/delta-io/delta.git
