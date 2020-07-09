@@ -40,3 +40,6 @@
 [submodule "resources/delta"]
 	path = resources/delta
 	url = https://github.com/delta-io/delta.git
+[submodule "resources/stream-reactor"]
+	path = resources/stream-reactor
+	url = https://github.com/lensesio/stream-reactor.git
